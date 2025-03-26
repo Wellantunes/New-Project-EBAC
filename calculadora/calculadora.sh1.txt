@@ -1,3 +1,11 @@
+Torne o script executável com o comando:
+
+  chmod +x calculadora.sh
+
+Execute o script com:
+
+  ./calculadora.sh
+
 #calculadora simples
 
 #pergunta o primeiro numero
