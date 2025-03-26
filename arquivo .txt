@@ -1,7 +1,15 @@
-# Torna o arquivo execut·vel
+Torne o script execut√°vel com o comando:
+
+  chmod +x calculadora.sh
+
+Execute o script com:
+
+  ./calculadora.sh
+
+# Torna o arquivo execut√°vel
 chmod +x calculadora.sh
 
-# Define permissıes: propriet·rio pode ler e escrever, outros apenas leitura
+# Define permiss√µes: propriet√°rio pode ler e escrever, outros apenas leitura
 chmod 744 calculadora.sh
 
 # Executa o script da calculadora
